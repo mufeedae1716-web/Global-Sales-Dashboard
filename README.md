@@ -65,7 +65,7 @@ The dataset was cleaned before visualization:
   - First Class (15%)
   - Same Day (5%)
 
-👉 Insight: Standard Class is most used shipping mode
+ Insight: Standard Class is most used shipping mode
 
 ---
 
@@ -96,7 +96,7 @@ The dataset was cleaned before visualization:
 - Sales by Country
 - Sales by Market
 
-👉 Provides detailed data view
+ Provides detailed data view
 
 ---
 

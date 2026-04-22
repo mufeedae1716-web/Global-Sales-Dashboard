@@ -129,6 +129,8 @@ A video walkthrough is included explaining:
 - Dashboard layout
 - Each visualization
 - Insights derived from data
+- video
+  link : https://drive.google.com/file/d/1D6RzJ4NtvpFcEvrtzp74gSRAIOLbpU4k/view?usp=sharing
 
 ---
 
